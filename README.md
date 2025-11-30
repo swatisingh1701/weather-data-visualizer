@@ -124,16 +124,3 @@ weather-data-visualizer/
    python weather_visualizer.py
    ```
 3. Check the output inside the `plots` folder.
-
----
-
-## ✔ Conclusion
-
-This project demonstrates how Python can be used for real-world weather analysis through effective data cleaning, statistical interpretation, and graphical visualization.
-
----
-
-## 📞 Contact
-
-For academic queries:
-**Course Instructor:** [sameer.farooq@krmangalam.edu.in](mailto:sameer.farooq@krmangalam.edu.in)
